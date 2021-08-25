@@ -4392,51 +4392,12 @@
   },
   "outboundProxies" : [ {
     "defaultProxy" : false,
-    "id" : 12,
-    "name" : "Link3 Technologies Ltd",
+    "id" : 9,
+    "name" : "Asian Network",
     "orbotIntegration" : false,
     "settings" : {
-      "proxyHost" : "203.76.100.126",
-      "proxyPort" : 5678,
-      "proxyType" : "SOCKS4",
-      "trustAnyCertificate" : false,
-      "udpThroughSocks5Enabled" : false
-    },
-    "proxyType" : "SOCKS4"
-  }, {
-    "defaultProxy" : false,
-    "id" : 22,
-    "name" : "Digicon Telecommunication Ltd",
-    "orbotIntegration" : false,
-    "settings" : {
-      "proxyHost" : "103.117.194.186",
-      "proxyPort" : 5678,
-      "proxyType" : "SOCKS4",
-      "trustAnyCertificate" : false,
-      "udpThroughSocks5Enabled" : false
-    },
-    "proxyType" : "SOCKS4"
-  }, {
-    "defaultProxy" : true,
-    "id" : 17,
-    "name" : "Ranks ITT Ltd",
-    "orbotIntegration" : false,
-    "settings" : {
-      "proxyHost" : "202.40.182.86",
-      "proxyPort" : 5678,
-      "proxyType" : "SOCKS4",
-      "trustAnyCertificate" : false,
-      "udpThroughSocks5Enabled" : false
-    },
-    "proxyType" : "SOCKS4"
-  }, {
-    "defaultProxy" : false,
-    "id" : 23,
-    "name" : "Weblink Communications Ltd",
-    "orbotIntegration" : false,
-    "settings" : {
-      "proxyHost" : "103.129.200.130",
-      "proxyPort" : 5678,
+      "proxyHost" : "103.106.242.157",
+      "proxyPort" : 4145,
       "proxyType" : "SOCKS4",
       "trustAnyCertificate" : false,
       "udpThroughSocks5Enabled" : false
@@ -4457,11 +4418,11 @@
     "proxyType" : "SOCKS4"
   }, {
     "defaultProxy" : false,
-    "id" : 16,
-    "name" : "WINK NETWORK",
+    "id" : 10,
+    "name" : "Bikrampur global network",
     "orbotIntegration" : false,
     "settings" : {
-      "proxyHost" : "103.129.210.238",
+      "proxyHost" : "103.126.14.150",
       "proxyPort" : 5678,
       "proxyType" : "SOCKS4",
       "trustAnyCertificate" : false,
@@ -4470,24 +4431,11 @@
     "proxyType" : "SOCKS4"
   }, {
     "defaultProxy" : false,
-    "id" : 1,
-    "name" : "Summit Communications Ltd",
+    "id" : 22,
+    "name" : "Digicon Telecommunication Ltd",
     "orbotIntegration" : false,
     "settings" : {
-      "proxyHost" : "103.15.246.70",
-      "proxyPort" : 5678,
-      "proxyType" : "SOCKS4",
-      "trustAnyCertificate" : false,
-      "udpThroughSocks5Enabled" : false
-    },
-    "proxyType" : "SOCKS4"
-  }, {
-    "defaultProxy" : false,
-    "id" : 13,
-    "name" : "BTCL",
-    "orbotIntegration" : false,
-    "settings" : {
-      "proxyHost" : "180.211.191.70",
+      "proxyHost" : "103.117.194.186",
       "proxyPort" : 5678,
       "proxyType" : "SOCKS4",
       "trustAnyCertificate" : false,
@@ -4522,6 +4470,32 @@
     "proxyType" : "SOCKS4"
   }, {
     "defaultProxy" : false,
+    "id" : 1,
+    "name" : "Summit Communications Ltd",
+    "orbotIntegration" : false,
+    "settings" : {
+      "proxyHost" : "103.15.246.70",
+      "proxyPort" : 5678,
+      "proxyType" : "SOCKS4",
+      "trustAnyCertificate" : false,
+      "udpThroughSocks5Enabled" : false
+    },
+    "proxyType" : "SOCKS4"
+  }, {
+    "defaultProxy" : false,
+    "id" : 8,
+    "name" : "AmberIT Limited",
+    "orbotIntegration" : false,
+    "settings" : {
+      "proxyHost" : "202.4.119.26",
+      "proxyPort" : 5678,
+      "proxyType" : "SOCKS4",
+      "trustAnyCertificate" : false,
+      "udpThroughSocks5Enabled" : false
+    },
+    "proxyType" : "SOCKS4"
+  }, {
+    "defaultProxy" : false,
     "id" : 3,
     "name" : "Sorob IT LTD",
     "orbotIntegration" : false,
@@ -4548,25 +4522,12 @@
     "proxyType" : "SOCKS4"
   }, {
     "defaultProxy" : false,
-    "id" : 14,
-    "name" : "Polly IT",
+    "id" : 12,
+    "name" : "Link3 Technologies Ltd",
     "orbotIntegration" : false,
     "settings" : {
-      "proxyHost" : "103.136.200.53",
+      "proxyHost" : "203.76.100.126",
       "proxyPort" : 5678,
-      "proxyType" : "SOCKS4",
-      "trustAnyCertificate" : false,
-      "udpThroughSocks5Enabled" : false
-    },
-    "proxyType" : "SOCKS4"
-  }, {
-    "defaultProxy" : false,
-    "id" : 20,
-    "name" : "Geotel Bangladesh IT Ltd.",
-    "orbotIntegration" : false,
-    "settings" : {
-      "proxyHost" : "103.195.2.12",
-      "proxyPort" : 44550,
       "proxyType" : "SOCKS4",
       "trustAnyCertificate" : false,
       "udpThroughSocks5Enabled" : false
@@ -4599,12 +4560,12 @@
     },
     "proxyType" : "SOCKS4"
   }, {
-    "defaultProxy" : false,
-    "id" : 10,
-    "name" : "Bikrampur global network",
+    "defaultProxy" : true,
+    "id" : 17,
+    "name" : "Ranks ITT Ltd",
     "orbotIntegration" : false,
     "settings" : {
-      "proxyHost" : "103.126.14.150",
+      "proxyHost" : "202.40.182.86",
       "proxyPort" : 5678,
       "proxyType" : "SOCKS4",
       "trustAnyCertificate" : false,
@@ -4639,11 +4600,11 @@
     "proxyType" : "SOCKS4"
   }, {
     "defaultProxy" : false,
-    "id" : 8,
-    "name" : "AmberIT Limited",
+    "id" : 13,
+    "name" : "BTCL",
     "orbotIntegration" : false,
     "settings" : {
-      "proxyHost" : "202.4.119.26",
+      "proxyHost" : "180.211.191.70",
       "proxyPort" : 5678,
       "proxyType" : "SOCKS4",
       "trustAnyCertificate" : false,
@@ -4652,12 +4613,25 @@
     "proxyType" : "SOCKS4"
   }, {
     "defaultProxy" : false,
-    "id" : 9,
-    "name" : "Asian Network",
+    "id" : 16,
+    "name" : "WINK NETWORK",
     "orbotIntegration" : false,
     "settings" : {
-      "proxyHost" : "103.106.242.157",
-      "proxyPort" : 4145,
+      "proxyHost" : "103.129.210.238",
+      "proxyPort" : 5678,
+      "proxyType" : "SOCKS4",
+      "trustAnyCertificate" : false,
+      "udpThroughSocks5Enabled" : false
+    },
+    "proxyType" : "SOCKS4"
+  }, {
+    "defaultProxy" : false,
+    "id" : 14,
+    "name" : "Polly IT",
+    "orbotIntegration" : false,
+    "settings" : {
+      "proxyHost" : "103.136.200.53",
+      "proxyPort" : 5678,
       "proxyType" : "SOCKS4",
       "trustAnyCertificate" : false,
       "udpThroughSocks5Enabled" : false
@@ -4678,11 +4652,24 @@
     "proxyType" : "SOCKS4"
   }, {
     "defaultProxy" : false,
-    "id" : 19,
-    "name" : "SPEED ONLINE",
+    "id" : 20,
+    "name" : "Geotel Bangladesh IT Ltd.",
     "orbotIntegration" : false,
     "settings" : {
-      "proxyHost" : "116.204.252.194",
+      "proxyHost" : "103.195.2.12",
+      "proxyPort" : 44550,
+      "proxyType" : "SOCKS4",
+      "trustAnyCertificate" : false,
+      "udpThroughSocks5Enabled" : false
+    },
+    "proxyType" : "SOCKS4"
+  }, {
+    "defaultProxy" : false,
+    "id" : 23,
+    "name" : "Weblink Communications Ltd",
+    "orbotIntegration" : false,
+    "settings" : {
+      "proxyHost" : "103.129.200.130",
       "proxyPort" : 5678,
       "proxyType" : "SOCKS4",
       "trustAnyCertificate" : false,
@@ -4702,7 +4689,7 @@
       "name" : "AdGuard DNS filter",
       "subscriptionUrl" : "https://filters.adtidy.org/android/filters/15_optimized.txt"
     } ],
-    "enabledGroups" : [ "LANGUAGE", "ADS", "PRIVACY", "ANNOYANCES", "SOCIAL", "SECURITY" ],
+    "enabledGroups" : [ "LANGUAGE", "ADS", "PRIVACY", "SOCIAL", "ANNOYANCES", "SECURITY" ],
     "filters" : {
       "1" : false,
       "2" : true,
