@@ -1,8 +1,12 @@
 # This json is created by Nahid Hassan Bulbul
 
-<img src="./src/Adguard.jpg" width="auto" height="auto">
-## how to setup?
+<img src="./src/Adguard.jpg" width="auto" height="auto"> <br />
+
+# how to setup?
+
+<br />
 # Follow the instructions
+
 <img src="./src/images/1.png" width="auto" height="auto">
 <img src="./src/images/2.png" width="auto" height="auto">
 <img src="./src/images/3.png" width="auto" height="auto">
